@@ -1,0 +1,42 @@
+{
+  "projectName": "ks-package-linking-tools",
+  "projectOwner": "guidesmiths",
+  "repoType": "gitlab",
+  "repoHost": "https://gitlab.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "none",
+  "contributors": [
+    {
+      "login": "baumannzone",
+      "name": "Jorge Baumann",
+      "avatar_url": "https://gitlab.com/uploads/-/system/user/avatar/242747/avatar.png",
+      "profile": "https://gitlab.com/baumannzone",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "robertoHeCi",
+      "name": "Roberto Hernández",
+      "avatar_url": "https://gitlab.com/uploads/-/system/user/avatar/10903098/avatar.png",
+      "profile": "https://gitlab.com/robertoHeCi",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "inigo.marquinez",
+      "name": "Iñigo Marquínez",
+      "avatar_url": "https://gitlab.com/uploads/-/system/user/avatar/5729823/avatar.png",
+      "profile": "https://gitlab.com/inigo.marquinez",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
