@@ -1,5 +1,5 @@
 {
-  "name": "ks-package-linking-tools",
+  "name": "ks-linking-packages-locally",
   "workspaces": [
     "packages/my-awesome-project",
     "packages/my-fancy-library"
