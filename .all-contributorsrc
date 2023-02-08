@@ -36,6 +36,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "xexuline",
+      "name": "Jesus Sabroso",
+      "avatar_url": "https://secure.gravatar.com/avatar/2ba2e76a41229d2064dff0e3e9d5b21f?s=80&d=identicon",
+      "profile": "https://gitlab.com/xexuline",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7
