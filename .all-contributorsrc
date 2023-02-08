@@ -1,60 +1,25 @@
 {
-  "projectName": "ks-package-linking-tools",
+  "projectName": "ks-linking-packages-locally",
   "projectOwner": "guidesmiths",
-  "repoType": "gitlab",
-  "repoHost": "https://gitlab.com",
+  "repoType": "github",
+  "repoHost": "https://github.com",
   "files": [
     "README.md"
   ],
   "imageSize": 100,
   "commit": true,
-  "commitConvention": "none",
+  "commitConvention": "eslint",
   "contributors": [
     {
       "login": "baumannzone",
       "name": "Jorge Baumann",
-      "avatar_url": "https://gitlab.com/uploads/-/system/user/avatar/242747/avatar.png",
-      "profile": "https://gitlab.com/baumannzone",
-      "contributions": [
-        "code"
-      ]
-    },
-    {
-      "login": "robertoHeCi",
-      "name": "Roberto Hernández",
-      "avatar_url": "https://gitlab.com/uploads/-/system/user/avatar/10903098/avatar.png",
-      "profile": "https://gitlab.com/robertoHeCi",
-      "contributions": [
-        "code"
-      ]
-    },
-    {
-      "login": "inigo.marquinez",
-      "name": "Iñigo Marquínez",
-      "avatar_url": "https://gitlab.com/uploads/-/system/user/avatar/5729823/avatar.png",
-      "profile": "https://gitlab.com/inigo.marquinez",
-      "contributions": [
-        "code"
-      ]
-    },
-    {
-      "login": "xexuline",
-      "name": "Jesus Sabroso",
-      "avatar_url": "https://secure.gravatar.com/avatar/2ba2e76a41229d2064dff0e3e9d5b21f?s=80&d=identicon",
-      "profile": "https://gitlab.com/xexuline",
-      "contributions": [
-        "code"
-      ]
-    },
-    {
-      "login": "riimako",
-      "name": "Riina Korpela",
-      "avatar_url": "https://secure.gravatar.com/avatar/d90cf60a9c4d5420c82f3f703f285c0e?s=80&d=identicon",
-      "profile": "https://gitlab.com/riimako",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5422102?v=4",
+      "profile": "https://baumannzone.dev/",
       "contributions": [
         "code"
       ]
     }
   ],
-  "contributorsPerLine": 7
+  "contributorsPerLine": 7,
+  "linkToUsage": true
 }
