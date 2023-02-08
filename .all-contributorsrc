@@ -45,6 +45,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "riimako",
+      "name": "Riina Korpela",
+      "avatar_url": "https://secure.gravatar.com/avatar/d90cf60a9c4d5420c82f3f703f285c0e?s=80&d=identicon",
+      "profile": "https://gitlab.com/riimako",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7
