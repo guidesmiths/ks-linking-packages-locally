@@ -5,6 +5,8 @@
 
 This is a sample project to show different alternatives to using local packages in other projects without having to publish them first.
 
+You can also read the series of articles related to this repository [here](https://dev.to/one-beyond/different-approaches-to-testing-your-own-packages-1kdg)
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
